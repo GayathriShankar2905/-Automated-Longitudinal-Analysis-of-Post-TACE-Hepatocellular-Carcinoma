@@ -1,8 +1,9 @@
 streamlit
-pydicom
-opencv-python-headless
-pandas
 numpy
+pydicom
+matplotlib
+networkx
+scipy
 torch
 torchvision
-matplotlib
+opencv-python-headless
